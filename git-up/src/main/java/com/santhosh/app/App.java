@@ -1,7 +1,7 @@
 package com.santhosh.app;
 
 /**
- * Hello world!
+ * Hello world!!!!!updated from console
  *
  */
 public class App 
